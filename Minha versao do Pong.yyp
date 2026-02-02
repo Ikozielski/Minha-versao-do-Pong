@@ -26,6 +26,7 @@
   },
   "name":"Minha versao do Pong",
   "resources":[
+    {"id":{"name":"obj_bola_02","path":"objects/obj_bola_02/obj_bola_02.yy",},},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},},
     {"id":{"name":"obj_botao_jogar","path":"objects/obj_botao_jogar/obj_botao_jogar.yy",},},
     {"id":{"name":"obj_botao_modo_jogo","path":"objects/obj_botao_modo_jogo/obj_botao_modo_jogo.yy",},},
