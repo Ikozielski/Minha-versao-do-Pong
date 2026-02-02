@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite9",
-    "path":"sprites/Sprite9/Sprite9.yy",
+    "name":"spr_raquete_03",
+    "path":"sprites/spr_raquete_03/spr_raquete_03.yy",
   },
   "spriteMaskId":null,
   "visible":true,
